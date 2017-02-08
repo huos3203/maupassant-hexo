@@ -3,7 +3,7 @@ duoshuo: huo3203 ## Your duoshuo_shortname, e.g. username
 disqus: ## Your disqus_shortname, e.g. username
 google_search: true ## Use Google search, true/false.
 baidu_search: ## Use Baidu search, true/false.
-swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
+swiftype: dazsKTijnsz_zi-bXB3t ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
 tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
 self_search: ## Use a jQuery-based local search engine, true/false.
 google_analytics: ## Your Google Analytics tracking id, e.g. UA-42425684-2
@@ -36,12 +36,24 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: swift文档
+    url: https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/
+  - title: objc中国
+    url: https://www.objccn.io
+  - title: NSHipster
+    url: http://nshipster.cn
+  - title: 动画
+    url: https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques
+  - title: Git Pro
+    url: https://git-scm.com/book/zh
+  - title: 全盘搜
+    url: http://kaopu.so/pan
+  - title: 小程序官方
+    url: https://mp.weixin.qq.com
+  - title: 王维
+    url: https://onevcat.com
+  - title: 唐巧
+    url: http://blog.devtang.com
 
 timeline:
   - num: 1
